@@ -1,2 +1,5 @@
 test
+<<<<<<< HEAD
 branch
+=======
+>>>>>>> parent of e9bee87 (Update test.txt)
