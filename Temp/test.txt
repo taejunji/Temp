@@ -1,5 +1,10 @@
 test
 <<<<<<< HEAD
 branch
+<<<<<<< HEAD
 =======
 >>>>>>> parent of e9bee87 (Update test.txt)
+=======
+고광신
+커밋푸시
+>>>>>>> parent of 9f87552 (123)
