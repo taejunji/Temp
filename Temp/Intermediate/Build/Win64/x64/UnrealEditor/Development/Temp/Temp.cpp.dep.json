@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\gp\\temp\\source\\temp\\temp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\gp\\temp\\intermediate\\build\\win64\\x64\\tempeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\gp\\temp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\temp\\definitions.temp.h",
+            "c:\\gp\\temp\\source\\temp\\temp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
