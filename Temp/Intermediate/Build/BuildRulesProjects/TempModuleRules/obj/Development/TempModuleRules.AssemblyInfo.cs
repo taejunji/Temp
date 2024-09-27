@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TempModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce155ea2eb1722caac2c7f9f2d8c0157eba9c98")]
 [assembly: System.Reflection.AssemblyProductAttribute("TempModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TempModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

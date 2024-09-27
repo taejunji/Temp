@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eqL/xbTxqI4=",
+  "dgSpecHash": "564zzK9fi5k=",
   "success": true,
-  "projectFilePath": "C:\\GP\\Temp\\Intermediate\\Build\\BuildRulesProjects\\TempModuleRules\\TempModuleRules.csproj",
+  "projectFilePath": "C:\\GP\\Tep\\Temp\\Temp\\Intermediate\\Build\\BuildRulesProjects\\TempModuleRules\\TempModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qq00a\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\qq00a\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
