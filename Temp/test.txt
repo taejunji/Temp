@@ -1,4 +1,8 @@
 test
+<<<<<<< HEAD
 branch
 고광신
 커밋푸시
+=======
+branch
+>>>>>>> parent of c3c2707 (Update test.txt)
